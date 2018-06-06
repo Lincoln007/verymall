@@ -1,0 +1,66 @@
+
+
+
+ 记录时间：2017-12-15 15:28:08,604 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(E:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 442
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 386
+
+
+
+ 记录时间：2017-12-15 15:32:01,461 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(E:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 442
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 386
+
+
+
+ 记录时间：2017-12-15 15:32:03,463 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(E:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 442
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 386
+
+
+
+ 记录时间：2017-12-15 15:32:04,729 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(E:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 442
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 386
+
+
+
+ 记录时间：2017-12-15 15:33:16,508 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(E:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 442
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 386
+
+
+
+ 记录时间：2017-12-15 17:14:11,188 
+日志级别：  ERROR 
+出错类：Himall.Core.PluginsManagement.InstallDll  
+错误描述：插件复制失败(E:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Web\plugins\Payment\Himall.Plugin.Payment.Alipay.Base.dll)！ 
+
+System.IO.FileNotFoundException: 未找到插件Himall.Plugin.Payment.Alipay.Base的配置文件
+   在 Himall.Core.PluginsManagement.AddPluginInfo(FileInfo dllFile) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 442
+   在 Himall.Core.PluginsManagement.InstallDll(String dllFileName) 位置 e:\大型系统源码\HIimall系列\Himall2.8\himall_v2.8_ms\Himall.Core\plugins\PluginsManagement.cs:行号 386

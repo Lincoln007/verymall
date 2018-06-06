@@ -1,0 +1,336 @@
+
+
+
+ 记录时间：2017-12-07 14:41:36,882 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 14:42:07,220 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 02:42:07 219:[当前请求URL：http://192.168.0.134:8007/m-wap/shopbranch/List?pageNo=1&pageSize=10&shopId=&fromLatLng=27.994267%2C120.699367&url=List；请求的参数为：pageNo=1&pageSize=10&shopId=&fromLatLng=27.994267%2c120.699367&url=List；页面加载的时间：7175.0363 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 14:42:51,875 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 14:45:14,097 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 14:45:37,445 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 02:45:37 445:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：20467.9892 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 14:45:37,445 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 02:45:37 445:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：20526.9873 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 14:45:49,178 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 14:48:51,370 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 14:48:54,609 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 15:15:36,930 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 15:15:45,624 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 15:15:48,582 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 15:15:51,896 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 03:15:51 895:[当前请求URL：http://localhost:60362/m-wap；请求的参数为：；页面加载的时间：5040.6878 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 15:15:53,188 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 03:15:53 188:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：6558.2667 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 15:26:46,135 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:05:53,350 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:06:00,558 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:06:00 558:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：6110.819 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:06:07,187 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 16:07:29,851 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:07:38,344 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:07:38 343:[当前请求URL：http://192.168.0.134:8007/；请求的参数为：；页面加载的时间：7055.5417 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:08:44,000 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 16:11:52,619 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:12:01,944 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:12:08,921 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:12:08 921:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：5920.2496 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:12:08,923 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:12:08 923:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：5592.5356 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:12:14,394 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 16:19:52,125 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:20:00,501 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:20:13,791 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:20:13 791:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：11373.7522 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:23:51,078 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:23:54,311 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 16:28:51,912 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:29:11,106 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:29:11 106:[当前请求URL：http://localhost:60362/m-wap/shopbranch/Index/26；请求的参数为：；页面加载的时间：6033.8879 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:30:24,326 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:30:41,289 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:30:41 287:[当前请求URL：http://localhost:60362/；请求的参数为：；页面加载的时间：5895.6878 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:33:48,233 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:33:48 233:[当前请求URL：http://localhost:60362/m-wap/cart/GetBranchCartProducts；请求的参数为：；页面加载的时间：18434.8116 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:34:47,411 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:34:47 411:[当前请求URL：http://localhost:60362/m-wap/cart/GetBranchCartProducts；请求的参数为：；页面加载的时间：21478.728 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 16:40:52,861 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 16:40:59,329 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 04:40:59 329:[当前请求URL：http://localhost:60362/m-wap/shopbranch/Index/26；请求的参数为：；页面加载的时间：5144.7923 毫秒] 
+
+
+
+
+ 记录时间：2017-12-07 17:06:57,228 
+日志级别：  DEBUG 
+出错类：Himall.Web.Areas.Mobile.Controllers.HomeController.Index  
+错误描述：crrentTemplateName=t9 
+
+
+
+
+ 记录时间：2017-12-07 17:12:27,834 
+日志级别：  DEBUG 
+出错类：Himall.Web.WebApiConfig.Register  
+错误描述：[OpenApi]RegRoute-DefaultOpenApi 
+
+
+
+
+ 记录时间：2017-12-07 17:12:36,618 
+日志级别：  DEBUG 
+出错类：Himall.Web.MvcApplication.Application_EndRequest  
+错误描述：2017-12-07 05:12:36 616:[当前请求URL：http://192.168.0.134:8007/；请求的参数为：；页面加载的时间：7558.9747 毫秒] 
+

@@ -1,0 +1,14 @@
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.PaymentPlugin.dll
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.PaymentPlugin.pdb
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.Core.dll
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.Core.xml
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\obj\Debug\Himall.PaymentPlugin.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\obj\Debug\Himall.PaymentPlugin.dll
+D:\Users\Administrator\Desktop\2121\HiMall2.61\HiMall2.61\plugins\Payment\Himall.PaymentPlugin\obj\Debug\Himall.PaymentPlugin.pdb
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.PaymentPlugin.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.PaymentPlugin.pdb
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.Core.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Newtonsoft.Json.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\bin\Debug\Himall.Core.xml
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\obj\Debug\Himall.PaymentPlugin.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.PaymentPlugin\obj\Debug\Himall.PaymentPlugin.pdb

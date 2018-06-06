@@ -1,0 +1,11 @@
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\obj\Debug\Himall.Plugin.Payment.WeiXinPay_SmallProg.csprojResolveAssemblyReference.cache
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\wx_logo.png
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Himall.Plugin.Payment.WeiXinPay_SmallProg.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Himall.Plugin.Payment.WeiXinPay_SmallProg.pdb
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Himall.PaymentPlugin.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Himall.WeixinPaymentBase.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Newtonsoft.Json.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Himall.PaymentPlugin.pdb
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\bin\Debug\Himall.WeixinPaymentBase.pdb
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\obj\Debug\Himall.Plugin.Payment.WeiXinPay_SmallProg.dll
+F:\客户程序\201709\佳友酒店商城\程序（带商家入驻）\plugins\Payment\Himall.Plugin.Payment.WeiXinPay_SmallProg\obj\Debug\Himall.Plugin.Payment.WeiXinPay_SmallProg.pdb
